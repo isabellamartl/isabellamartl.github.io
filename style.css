@@ -1,0 +1,12 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+/* Ajuste color columna izquierda */
+.bg-primary{
+    background: #457dbc !important ;
+}
+
+.img {
+    width: 300px;
+    height: 200px;
+}
