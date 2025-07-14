@@ -1,0 +1,19 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: rgb(25, 24, 23);
+    padding: 20px;
+}
+h1,h2{
+    text-align: center;
+    color:rgb(65, 101, 110)
+    
+}
+canvas{
+    display: block;
+    margin: 20px auto;
+    max-width: 800px;
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+}
